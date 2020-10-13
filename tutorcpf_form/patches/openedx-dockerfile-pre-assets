@@ -1,3 +1,1 @@
-# Install CPF Form app
-ARG FIGURES_VERSION=build-0.3.11
-RUN pip install -e git+https://github.com/ejklock/edx-cpf-regform.git
+RUN pip install -e git+https://github.com/ejklock/edx-cpf-regform.git#egg=cpf_regform
