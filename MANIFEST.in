@@ -1,0 +1,2 @@
+recursive-include tutorcpf_form/patches *
+recursive-include tutorcpf_form/templates *
